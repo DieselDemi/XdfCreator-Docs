@@ -1,2 +1,2 @@
-# XdfCreator-Issues
-Issue Tracker for XDF Creator
+# XdfCreator-Docs
+Docs and Issue tracker for XDF Creator
